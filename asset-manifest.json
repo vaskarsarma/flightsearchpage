@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/flightsearchpage/static/css/main.09e79c84.chunk.css",
-    "main.js": "/flightsearchpage/static/js/main.d8f03984.chunk.js",
-    "main.js.map": "/flightsearchpage/static/js/main.d8f03984.chunk.js.map",
+    "main.js": "/flightsearchpage/static/js/main.b2a33de9.chunk.js",
+    "main.js.map": "/flightsearchpage/static/js/main.b2a33de9.chunk.js.map",
     "runtime-main.js": "/flightsearchpage/static/js/runtime-main.aa9e860e.js",
     "runtime-main.js.map": "/flightsearchpage/static/js/runtime-main.aa9e860e.js.map",
     "static/css/2.f2512455.chunk.css": "/flightsearchpage/static/css/2.f2512455.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.f2512455.chunk.css",
     "static/js/2.961a4fc5.chunk.js",
     "static/css/main.09e79c84.chunk.css",
-    "static/js/main.d8f03984.chunk.js"
+    "static/js/main.b2a33de9.chunk.js"
   ]
 }
