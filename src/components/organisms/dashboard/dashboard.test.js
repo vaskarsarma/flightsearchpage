@@ -4,7 +4,7 @@ import { shallowToJson } from "enzyme-to-json";
 import { render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import Dashboard from "./dashboard";
-import { FlightInfo } from "../flight-info/flight-info";
+import { FlightInfo } from "../../molecules/flight-info/flight-info";
 
 describe("<Dashboard />", () => {
   let container;

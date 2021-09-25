@@ -1,8 +1,8 @@
 import React from "react";
 import { Card, Button } from "react-bootstrap";
-import { DetailLabel } from "../detail-label/detail-label";
-import FlightLogo from "../flightlogo/flightlogo";
-import nonStopFlightLogo from "../../assets/nonstop.png";
+import { DetailLabel } from "../../atoms/detail-label/detail-label";
+import FlightLogo from "../../atoms/flightlogo/flightlogo";
+import nonStopFlightLogo from "../../../assets/nonstop.png";
 import "./flight-info.scss";
 
 export const FlightInfo = (props) => {

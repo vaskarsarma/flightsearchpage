@@ -1,8 +1,9 @@
-# FLIGHT SEARCH APP
+# Welcome!!! Start using the FLIGHT SEARCH APP
 
 > Application is developed using REACT JS.\
+> Atomic Design Pattern is used to achieve component reusability.\
 > Used SCSS for style.\
-> Jest,Enzyme and React Testing Library used for writing unit test cases.\
+> Jest,Enzyme and React Testing Library used for writing unit test cases (100% code coverage).\
 > react-bootstrap is used to implement responsive design.\
 > react-app-polyfill is used to enable browser compatibility.
 

@@ -2,8 +2,8 @@ import React from "react";
 import { shallow } from "enzyme";
 import { shallowToJson } from "enzyme-to-json";
 import App from "./App";
-import Header from "./components/header/header";
-import Dashboard from "./components/dashboard/dashboard";
+import Header from "./components/atoms/header/header";
+import Dashboard from "./components/organisms/dashboard/dashboard";
 
 describe("<App />", () => {
   let container;

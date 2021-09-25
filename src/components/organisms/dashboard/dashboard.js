@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { FlightInfo } from "../flight-info/flight-info";
-import data from "../../data/data.json";
+import { FlightInfo } from "../../molecules/flight-info/flight-info";
+import data from "../../../data/data.json";
 
 function Dashboard() {
   const [selected, setSelected] = useState(0);

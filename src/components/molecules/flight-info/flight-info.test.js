@@ -2,7 +2,7 @@ import React from "react";
 import { shallow } from "enzyme";
 import { shallowToJson } from "enzyme-to-json";
 import { FlightInfo } from "./flight-info";
-import mockRoutes from "../mocks/mockroutes.json";
+import mockRoutes from "../../../mocks/mockroutes.json";
 
 describe("<FlightInfo />", () => {
   let container;
