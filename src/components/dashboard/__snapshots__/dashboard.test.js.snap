@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Dashboard /> <Dashboard /> Rendered Correctly 1`] = `
+Array [
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "6:00",
+        "date": "2020/11/01",
+        "departureTime": "5:00",
+        "destination": "Mumbai (BOM)",
+        "flightNo": "AI-101",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 3525,
+      }
+    }
+    id={1}
+    key="0"
+    onClickedhandler={[Function]}
+  />,
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "9:50",
+        "date": "2020/11/01",
+        "departureTime": "7:20",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-102",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 5635,
+      }
+    }
+    id={2}
+    key="1"
+    onClickedhandler={[Function]}
+  />,
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "7:10",
+        "date": "2020/11/01",
+        "departureTime": "6:10",
+        "destination": "Mumbai (BOM)",
+        "flightNo": "AI-103",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 2537,
+      }
+    }
+    id={3}
+    key="2"
+    onClickedhandler={[Function]}
+  />,
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "10:20",
+        "date": "2020/11/01",
+        "departureTime": "8:10",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-104",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 4681,
+      }
+    }
+    id={4}
+    key="3"
+    onClickedhandler={[Function]}
+  />,
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "9:15",
+        "date": "2020/11/01",
+        "departureTime": "8:15",
+        "destination": "Bengaluru (BLR)",
+        "flightNo": "SJ-105",
+        "name": "SpiceJet",
+        "origin": "Pune (PNQ)",
+        "price": 3549,
+      }
+    }
+    id={5}
+    key="4"
+    onClickedhandler={[Function]}
+  />,
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "13:00",
+        "date": "2020/11/01",
+        "departureTime": "11:00",
+        "destination": "Delhi (DEL)",
+        "flightNo": "SJ-106",
+        "name": "SpiceJet",
+        "origin": "Bengaluru (BLR)",
+        "price": 5645,
+      }
+    }
+    id={6}
+    key="5"
+    onClickedhandler={[Function]}
+  />,
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "10:00",
+        "date": "2020/11/01",
+        "departureTime": "8:00",
+        "destination": "Delhi (DEL)",
+        "flightNo": "SJ-107",
+        "name": "SpiceJet",
+        "origin": "Bengaluru (BLR)",
+        "price": 5000,
+      }
+    }
+    id={7}
+    key="6"
+    onClickedhandler={[Function]}
+  />,
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "10:30",
+        "date": "2020/11/01",
+        "departureTime": "8:00",
+        "destination": "Bengaluru (BLR)",
+        "flightNo": "TW-108",
+        "name": "Air Taiwan",
+        "origin": "Mumbai (BOM)",
+        "price": 4004,
+      }
+    }
+    id={8}
+    key="7"
+    onClickedhandler={[Function]}
+  />,
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "15:30",
+        "date": "2020/11/01",
+        "departureTime": "12:00",
+        "destination": "Delhi (DEL)",
+        "flightNo": "TW-109",
+        "name": "Air Taiwan",
+        "origin": "Bengaluru (BLR)",
+        "price": 3495,
+      }
+    }
+    id={9}
+    key="8"
+    onClickedhandler={[Function]}
+  />,
+  <FlightInfo
+    disableBtn={false}
+    flightInfoObj={
+      Object {
+        "arrivalTime": "11:30",
+        "date": "2020/11/01",
+        "departureTime": "9:00",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-110",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 4137,
+      }
+    }
+    id={10}
+    key="9"
+    onClickedhandler={[Function]}
+  />,
+]
+`;
