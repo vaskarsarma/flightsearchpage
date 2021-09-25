@@ -11,13 +11,13 @@ exports[`<Header /> <Header /> Rendered Correctly 1`] = `
   </h1>
   <h2
     className="Center-align-text"
-    hidden="true"
+    hidden={true}
   >
     Displaying 10 Flight Routes
   </h2>
   <h3
     className="Center-align-text"
-    hidden="true"
+    hidden={true}
   >
     Please Select Any
   </h3>

@@ -13,7 +13,7 @@ exports[`<FlightInfo /> <FlightInfo /> Rendered Correctly 1`] = `
       className="Flight-info"
     >
       <FlightLogo
-        alttext="Image Icon"
+        alttext="Icon"
         imagePath="nonstop.png"
         size="Flight-Icon"
       />

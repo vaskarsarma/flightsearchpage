@@ -1,15 +1,15 @@
+//colors
+$color_shark_approx: #282c34;
+$white: white;
+
 .App-footer {
-  background-color: #282c34;
-  min-height: 10vh;
-  height: 100px;
-  display: flex;
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+	background-color: $color_shark_approx;
+	min-height: 10vh;
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px +2vmin);
+	color: $white;
 }

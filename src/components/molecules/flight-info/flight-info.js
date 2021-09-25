@@ -20,7 +20,7 @@ export const FlightInfo = (props) => {
         <section className="Flight-info">
           <FlightLogo
             imagePath={nonStopFlightLogo}
-            alttext="Image Icon"
+            alttext="Icon"
             size="Flight-Icon"
           ></FlightLogo>
           <DetailLabel
