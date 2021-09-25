@@ -7,12 +7,12 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "6:00",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "5:00",
         "destination": "Mumbai (BOM)",
-        "flightNo": "AI-101",
-        "name": "Air India",
-        "origin": "Pune (PNQ)",
+        "flightNo": "EK-101",
+        "name": "EMIRATES",
+        "origin": "Dubai (DXB)",
         "price": 3525,
       }
     }
@@ -25,12 +25,12 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "9:50",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "7:20",
         "destination": "Delhi (DEL)",
-        "flightNo": "AI-102",
-        "name": "Air India",
-        "origin": "Mumbai (BOM)",
+        "flightNo": "EK-102",
+        "name": "EMIRATES",
+        "origin": "Dubai (DXB)",
         "price": 5635,
       }
     }
@@ -43,12 +43,12 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "7:10",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "6:10",
         "destination": "Mumbai (BOM)",
-        "flightNo": "AI-103",
-        "name": "Air India",
-        "origin": "Pune (PNQ)",
+        "flightNo": "EK-103",
+        "name": "EMIRATES",
+        "origin": "Dubai (DXB)",
         "price": 2537,
       }
     }
@@ -61,12 +61,12 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "10:20",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "8:10",
         "destination": "Delhi (DEL)",
-        "flightNo": "AI-104",
-        "name": "Air India",
-        "origin": "Pune (PNQ)",
+        "flightNo": "EK-104",
+        "name": "EMIRATES",
+        "origin": "Dubai (DXB)",
         "price": 4681,
       }
     }
@@ -79,12 +79,12 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "9:15",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "8:15",
         "destination": "Bengaluru (BLR)",
-        "flightNo": "SJ-105",
-        "name": "SpiceJet",
-        "origin": "Pune (PNQ)",
+        "flightNo": "EK-105",
+        "name": "EMIRATES",
+        "origin": "Dubai (DXB)",
         "price": 3549,
       }
     }
@@ -97,11 +97,11 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "13:00",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "11:00",
-        "destination": "Delhi (DEL)",
-        "flightNo": "SJ-106",
-        "name": "SpiceJet",
+        "destination": "Dubai (DXB)",
+        "flightNo": "EK-106",
+        "name": "EMIRATES",
         "origin": "Bengaluru (BLR)",
         "price": 5645,
       }
@@ -115,11 +115,11 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "10:00",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "8:00",
-        "destination": "Delhi (DEL)",
-        "flightNo": "SJ-107",
-        "name": "SpiceJet",
+        "destination": "Dubai (DXB)",
+        "flightNo": "EK-107",
+        "name": "EMIRATES",
         "origin": "Bengaluru (BLR)",
         "price": 5000,
       }
@@ -133,12 +133,12 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "10:30",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "8:00",
         "destination": "Bengaluru (BLR)",
-        "flightNo": "TW-108",
-        "name": "Air Taiwan",
-        "origin": "Mumbai (BOM)",
+        "flightNo": "EK-108",
+        "name": "EMIRATES",
+        "origin": "Dubai (DXB)",
         "price": 4004,
       }
     }
@@ -151,11 +151,11 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "15:30",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "12:00",
-        "destination": "Delhi (DEL)",
-        "flightNo": "TW-109",
-        "name": "Air Taiwan",
+        "destination": "Dubai (DXB)",
+        "flightNo": "EK-109",
+        "name": "EMIRATES",
         "origin": "Bengaluru (BLR)",
         "price": 3495,
       }
@@ -169,12 +169,12 @@ Array [
     flightInfoObj={
       Object {
         "arrivalTime": "11:30",
-        "date": "2020/11/01",
+        "date": "2021/11/01",
         "departureTime": "9:00",
         "destination": "Delhi (DEL)",
-        "flightNo": "AI-110",
-        "name": "Air India",
-        "origin": "Mumbai (BOM)",
+        "flightNo": "EK-110",
+        "name": "EMIRATES",
+        "origin": "Dubai (DXB)",
         "price": 4137,
       }
     }
