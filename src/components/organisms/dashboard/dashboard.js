@@ -9,7 +9,7 @@ function Dashboard() {
     setSelected(event.target.id);
   };
 
-  return data.map((flightInfo, index) => {
+  return data.slice(0,10).map((flightInfo, index) => {
     return (
       <FlightInfo
         key={index}
