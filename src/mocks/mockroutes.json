@@ -3,14 +3,14 @@
     "key": 1,
     "id": 1,
     "flightInfoObj": {
-      "arrivalTime": "16:30",
-      "date": "2020/11/02",
-      "departureTime": "14:30",
-      "destination": "Delhi (DEL)",
-      "flightNo": "AI-132",
-      "name": "Air India",
-      "origin": "Mumbai (BOM)",
-      "price": "4170"
+      "arrivalTime": "6:00",
+      "date": "2021/11/01",
+      "departureTime": "5:00",
+      "destination": "Mumbai (BOM)",
+      "flightNo": "EK-101",
+      "name": "EMIRATES",
+      "origin": "Dubai (DXB)",
+      "price": 3525
     },
     "disableBtn": true,
     "onClickedhandler": 1
@@ -19,14 +19,14 @@
     "key": 1,
     "id": 1,
     "flightInfoObj": {
-      "arrivalTime": "16:30",
-      "date": "2020/11/02",
-      "departureTime": "14:30",
-      "destination": "Delhi (DEL)",
-      "flightNo": "AI-132",
-      "name": "Air India",
-      "origin": "Mumbai (BOM)",
-      "price": "4170"
+      "arrivalTime": "6:00",
+      "date": "2021/11/01",
+      "departureTime": "5:00",
+      "destination": "Mumbai (BOM)",
+      "flightNo": "EK-101",
+      "name": "EMIRATES",
+      "origin": "Dubai (DXB)",
+      "price": 3525
     },
     "disableBtn": false,
     "onClickedhandler": 1

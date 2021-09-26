@@ -19,7 +19,7 @@ exports[`<FlightInfo /> <FlightInfo /> Rendered Correctly 1`] = `
       />
       <DetailLabel
         mainText="AIRLINE"
-        subText="Emirates"
+        subText="EMIRATES"
       />
       <DetailLabel
         mainText="FROM"
