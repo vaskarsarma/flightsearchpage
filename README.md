@@ -17,25 +17,13 @@
 
 Please use this GITPAGE URL - https://vaskarsarma.github.io/flightsearchpage/
 
-## Run the application using DOCKER
-
-If Docker is available on your local machine, you can run the application using Docker Container.\
-Run the below command in any CLI
-
-### `docker-compose up`
-
-This command will build and deploy the application in a container.\
-Open [http://localhost:3000](http://localhost:3000) to view the page in the browser.
-
-In case container already exists and stopped. Use the below command to start the application.
-
-> Start stopped container - **docker start flight-search-page**.\
-> Delete stopped container - **docker rm flight-search-page** and run **docker-compose up** to start the application.\
-> Delete existing docker image - **docker rmi vaskar/flight-search-page**.
-
 ## Available Scripts
 
 In the project directory, you can run below script on any CLI:
+
+### `npm i`
+
+Will install all the dependencies.
 
 ### `npm start`
 
