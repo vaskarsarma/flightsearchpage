@@ -1,13 +1,13 @@
-import React, { useState } from "react";
+import React, { useState, useCallback } from "react";
 import { FlightInfo } from "../../molecules/flight-info/flight-info";
 import data from "../../../data/data.json";
 
 function Dashboard() {
   const [selected, setSelected] = useState(0);
 
-  const changedData = (event) => {
+  const changedData = useCallback((event) => {
     setSelected(event.target.id);
-  };
+  }, []);
 
   return data.slice(0,10).map((flightInfo, index) => {
     return (

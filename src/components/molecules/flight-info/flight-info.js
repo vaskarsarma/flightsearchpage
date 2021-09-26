@@ -5,7 +5,7 @@ import FlightLogo from "../../atoms/flightlogo/flightlogo";
 import nonStopFlightLogo from "../../../assets/nonstop.png";
 import "./flight-info.scss";
 
-export const FlightInfo = (props) => {
+export const FlightInfo = React.memo((props) => {
   const { id, flightInfoObj, disableBtn, onClickedhandler } = props;
   const depratBy = flightInfoObj.date + " " + flightInfoObj.departureTime;
   const arrivedBy = flightInfoObj.date + " " + flightInfoObj.arrivalTime;
@@ -40,6 +40,7 @@ export const FlightInfo = (props) => {
           <DetailLabel mainText="PRICE" subText={price}></DetailLabel>
           <Button
             id={id}
+            aria-label="Select Flight"
             variant="primary"
             onClick={onClickedhandler}
             disabled={disableBtn}
@@ -50,4 +51,4 @@ export const FlightInfo = (props) => {
       </Card>
     </div>
   );
-};
+});

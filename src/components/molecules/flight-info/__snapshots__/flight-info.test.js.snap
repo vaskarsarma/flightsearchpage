@@ -43,6 +43,7 @@ exports[`<FlightInfo /> <FlightInfo /> Rendered Correctly 1`] = `
       />
       <Button
         active={false}
+        aria-label="Select Flight"
         disabled={true}
         id={1}
         onClick={1}
