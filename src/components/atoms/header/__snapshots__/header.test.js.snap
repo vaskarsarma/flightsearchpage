@@ -21,5 +21,10 @@ exports[`<Header /> <Header /> Rendered Correctly 1`] = `
   >
     Please Select Any
   </h3>
+  <p
+    className="Center-align-text"
+  >
+    Found 10 Flights
+  </p>
 </header>
 `;
