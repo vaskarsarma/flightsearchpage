@@ -21,10 +21,10 @@ exports[`<Header /> <Header /> Rendered Correctly 1`] = `
   >
     Please Select Any
   </h3>
-  <p
+  <h4
     className="Center-align-text"
   >
     Found 10 Flights
-  </p>
+  </h4>
 </header>
 `;
