@@ -19,30 +19,32 @@ exports[`<FlightInfo /> <FlightInfo /> Rendered Correctly 1`] = `
       />
       <DetailLabel
         mainText="AIRLINE"
-        subText="Air India"
+        subText="Emirates"
       />
       <DetailLabel
         mainText="FROM"
-        subText="Mumbai (BOM)"
+        subText="Dubai (DXB)"
       />
       <DetailLabel
         mainText="TO"
-        subText="Delhi (DEL)"
+        subText="Mumbai (BOM)"
       />
       <DetailLabel
         mainText="DEPART BY"
-        subText="2020/11/02 14:30"
+        subText="2021/11/01 5:00"
       />
       <DetailLabel
         mainText="ARRIVED AT"
-        subText="2020/11/02 16:30"
+        subText="2021/11/01 6:00"
       />
       <DetailLabel
         mainText="PRICE"
-        subText="$4170"
+        subText="$3525"
       />
       <Button
         active={false}
+        aria-describedby="1_activeCard"
+        aria-disabled="true"
         aria-label="Select Flight"
         disabled={true}
         id={1}
@@ -51,6 +53,18 @@ exports[`<FlightInfo /> <FlightInfo /> Rendered Correctly 1`] = `
       >
         SELECT
       </Button>
+      <span
+        hidden={true}
+        id="1_activeCard"
+      >
+        You have selected a flight from 
+        Dubai (DXB)
+         to 
+        Mumbai (BOM)
+         scheduled to depart on 
+        2021/11/01 5:00
+        .
+      </span>
     </section>
   </Card>
 </div>

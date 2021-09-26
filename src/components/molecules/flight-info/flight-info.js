@@ -10,6 +10,7 @@ export const FlightInfo = React.memo((props) => {
   const depratBy = flightInfoObj.date + " " + flightInfoObj.departureTime;
   const arrivedBy = flightInfoObj.date + " " + flightInfoObj.arrivalTime;
   const price = "$" + flightInfoObj.price;
+  const spanID=id + "_activeCard";
 
   return (
     <div className="Cart-Container">
@@ -44,9 +45,12 @@ export const FlightInfo = React.memo((props) => {
             variant="primary"
             onClick={onClickedhandler}
             disabled={disableBtn}
+            aria-describedby={spanID}
+            aria-disabled= {disableBtn ? 'true' : 'false'}
           >
             SELECT
           </Button>
+          {disableBtn ? <span hidden={true} id={spanID}>You have selected a flight from {flightInfoObj.origin} to {flightInfoObj.destination} scheduled to depart on {depratBy}.</span> : ''}
         </section>
       </Card>
     </div>
